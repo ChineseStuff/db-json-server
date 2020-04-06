@@ -22,7 +22,8 @@
         "catchPhrase": "Multi-layered client-server neural-net",
         "bs": "harness real-time e-markets"
       },
-      "profileImage": "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"
+      "profileImage": "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
+      "isFriend": false
     },
     {
       "id": 2,
@@ -46,7 +47,8 @@
         "catchPhrase": "Proactive didactic contingency",
         "bs": "synergize scalable supply-chains"
       },
-      "profileImage": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "profileImage": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "isFriend": false
     },
     {
       "id": 3,
@@ -70,13 +72,14 @@
         "catchPhrase": "Face to face bifurcated interface",
         "bs": "e-enable strategic applications"
       },
-      "profileImage":"https://images.pexels.com/photos/1024311/pexels-photo-1024311.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "profileImage":"https://images.pexels.com/photos/1024311/pexels-photo-1024311.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "isFriend": true
     },
     {
       "id": 4,
-      "name": "Patricia Lebsack",
-      "username": "Karianne",
-      "email": "Julianne.OConner@kory.org",
+      "name": "Richard Lebsack",
+      "username": "richy",
+      "email": "Richard.OConner@kory.org",
       "address": {
         "street": "Hoeger Mall",
         "suite": "Apt. 692",
@@ -94,7 +97,8 @@
         "catchPhrase": "Multi-tiered zero tolerance productivity",
         "bs": "transition cutting-edge web services"
       },
-      "profileImage": "https://images.pexels.com/photos/736716/pexels-photo-736716.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "profileImage": "https://images.pexels.com/photos/736716/pexels-photo-736716.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "isFriend": false
     },
     {
       "id": 5,
@@ -118,7 +122,8 @@
         "catchPhrase": "User-centric fault-tolerant solution",
         "bs": "revolutionize end-to-end systems"
       },
-      "profileImage": "https://images.pexels.com/photos/761977/pexels-photo-761977.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "profileImage": "https://images.pexels.com/photos/761977/pexels-photo-761977.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "isFriend": false
     }
   ]
 }
